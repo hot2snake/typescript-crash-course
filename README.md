@@ -1,2 +1,0 @@
-# CoderDost TypeScript Crash Course
-
